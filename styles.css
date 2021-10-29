@@ -1,18 +1,7 @@
 body{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.993);
 }
-
-.navbar{
-    background-color: rgb(136, 215, 252);
-    text-align: right;
-}
-
-nav{
-    position: relative;
-    margin:10px auto 0;
-    border-radius: 6px;
-    box-shadow:0 2px 3px 0 rgba(0,0,0,.1);
-}
-nav a{
-    text-transform: uppercase;
+.jumbotron {
+    height: 600px;
+    background-image: url("pictures/burrito.PNG");
 }
