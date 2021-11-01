@@ -5,3 +5,7 @@ body{
     height: 600px;
     background-image: url("pictures/burrito.PNG");
 }
+h1 {
+    color: #fcb448;
+    text-align: center;
+}
