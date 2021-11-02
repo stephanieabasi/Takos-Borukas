@@ -6,6 +6,11 @@ body{
     background-image: url("pictures/burrito.PNG");
 }
 h1 {
-    color: #fcb448;
+    color: #ecca98;
     text-align: center;
 }
+.menu-heading {
+    border: 2px solid #ecca98;
+    border-radius: 100px;
+    border-
+  }
