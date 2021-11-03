@@ -5,12 +5,28 @@ body{
     height: 600px;
     background-image: url("pictures/burrito.PNG");
 }
-h1 {
-    color: #ecca98;
-    text-align: center;
-}
 .menu-heading {
-    border: 2px solid #ecca98;
+    border: 2px solid rgb(224, 182, 118);
     border-radius: 100px;
-    border-
   }
+p, h3, h4 {
+    color: rgb(224, 182, 118);
+}
+@font-face {
+    font-family:'Fjalla One' ;
+    src: url(./font/Fjalla_One/FjallaOne-Regular.ttf);
+    font-style: normal;
+    font-weight: 100px;
+}
+h1{
+    font-family:'Fjalla One';
+    color: rgb(224, 182, 118);
+    text-align: center;
+    
+}
+h2{
+    font-family:'Fjalla One';
+    color: rgb(224, 182, 118);
+    text-align: center;
+    
+}
