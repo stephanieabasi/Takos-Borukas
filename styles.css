@@ -4,6 +4,8 @@ body{
 .jumbotron {
     height: 600px;
     background-image: url("pictures/burrito.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .menu-heading {
     border: 2px solid rgb(224, 182, 118);
