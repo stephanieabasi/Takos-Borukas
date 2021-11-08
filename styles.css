@@ -8,8 +8,9 @@ body{
     background-size: cover;
 }
 .menu-heading {
-    border: 2px solid rgb(224, 182, 118);
+    border: 2px solid rgb(250, 203, 101);
     border-radius: 100px;
+    background-color: rgb(250, 203, 101);
   }
 p, h3, h4 {
     color: rgb(224, 182, 118);
@@ -22,16 +23,19 @@ p, h3, h4 {
 }
 h1{
     font-family:'Fjalla One';
-    color: rgb(224, 182, 118);
+    color: rgb(250, 203, 101);
     text-align: center;
     
 }
 h2{
     font-family:'Fjalla One';
-    color: rgb(224, 182, 118);
+    color: black);
     text-align: center;
     
 }
 .card-text {
     color: black;
 }
+footer{
+    background-color: #a6e3ff ;
+  }
