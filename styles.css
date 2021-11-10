@@ -12,6 +12,11 @@ body{
     border-radius: 100px;
     background-color: rgb(250, 203, 101);
   }
+  .menu-heading1 {
+    border: 2px solid rgb(126, 178, 247);
+    border-radius: 100px;
+    background-color: rgb(126, 178, 247);
+  }
 p, h3, h4 {
     color: rgb(224, 182, 118);
 }
@@ -23,11 +28,16 @@ p, h3, h4 {
 }
 h1{
     font-family:'Fjalla One';
-    color: rgb(250, 203, 101);
     text-align: center;
-    
+    color: black;
 }
 h2{
+    font-family:'Fjalla One';
+    color: rgb(250, 203, 101);
+    text-align: center;
+    color: black;
+}
+h3{
     font-family:'Fjalla One';
     color: black;
     text-align: center;
@@ -37,5 +47,5 @@ h2{
     color: black;
 }
 footer{
-    background-color: #a6e3ff ;
+    background-color: #a6f5ff ;
   }
