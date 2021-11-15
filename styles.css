@@ -13,9 +13,10 @@ body{
     background-color: rgb(250, 203, 101);
   }
   .menu-heading1 {
-    border: 2px solid rgb(126, 178, 247);
+    border: 2px solid #a1d2da;
     border-radius: 100px;
-    background-color: rgb(126, 178, 247);
+    background-color: #a1d2da;
+    color:rgb(241, 241, 241)
   }
 p, h3, h4 {
     color: rgb(224, 182, 118);
