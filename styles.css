@@ -50,3 +50,10 @@ h3{
 footer{
     background-color: #a1d2da ;
   }
+.footer-text {
+    color: black;
+    text-align: center;
+}
+.footer-heading {
+    font-size: 700%;
+  }
