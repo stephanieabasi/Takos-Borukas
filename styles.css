@@ -57,3 +57,8 @@ footer{
 .footer-heading {
     font-size: 700%;
   }
+.line-breaks{
+    border: 2px solid rgb(250, 203, 101);
+    border-radius: 100px;
+    background-color: rgb(250, 203, 101);
+  }
