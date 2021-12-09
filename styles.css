@@ -72,6 +72,11 @@ footer{
 .page-item {
   width: 80px;
 }
-@media  and (max-width: 420x) {
-  
+.iphonesix {
+  width: 600px;
 }
+@media screen and (max-width: 450px) {
+  .iphonesix {
+    width: 390px;
+  }
+ }
