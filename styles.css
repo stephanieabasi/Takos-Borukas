@@ -69,15 +69,9 @@ footer{
     text-align: center;
     color: #000000;
 }
-@media screen and (max-width: 320px) {
-  .jumbotron {
-    height: 200px;
-    background-image: url("pictures/burrito.PNG");
-    background-repeat: no-repeat;
-    background-size: cover;
-  .iphonemage
-    
-  }
-  @media screen and (max-width: 420px) {
-    
-  }
+.page-item {
+  width: 80px;
+}
+@media  and (max-width: 420x) {
+  
+}
