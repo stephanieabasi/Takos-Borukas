@@ -1,4 +1,4 @@
-Takos Borukas is an amazing authentic Mexican restaurant with a 4.7-star rating. We reached out Takos Borukas to make a website for our project. Takos Borukas did not originally have a website, so this was a great opportunity to help their business be known.
+Takos Borukas is an amazing authentic Mexican restaurant with a 4.7-star rating. We reached out Takos Borukas to make a website for our project. Takos Borukas did not originally have a website, so this was a great opportunity to help their business be recognized.
 --------------------------------------------------------
 Challenges were making the website responsive to all devices. We would fix something on iPhone dimensions but then when you went back, it changed the desktop dimensions format. We did figure it out by using media query. Time was also a challenge because we started making this in November 2021 and finished December 10th, 21.
 --------------------------------------------------------
@@ -17,7 +17,7 @@ This website's features:
 
     -Our client asked for the website to have the colors and look like the menu, so we executed it.
 --------------------------------------------------------
-We hope you enjoy this website and have your business grow!
+We hope you enjoy this website!
 
     Sincerely, Stephanie and Claudia
 

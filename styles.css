@@ -75,8 +75,102 @@ footer{
 .iphonesix {
   width: 600px;
 }
+.jumbo {
+  width: 500px;
+}
+.takoswithrice {
+  width: 640px;
+}
+.bracero {
+  width: 400px;
+}
+.tostada {
+  width: 410px;
+}
+.shrimp {
+  width: 490px;
+}
 @media screen and (max-width: 450px) {
   .iphonesix {
     width: 390px;
   }
+  .jumbo {
+    width: 300px;
+  }
+  .jumbotron {
+    height: 400px;
+    background-image: url("pictures/burrito.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-heading {
+  font-size: 600%;
+}
+.takoswithrice {
+  width: 390px;
  }
+}
+ @media screen and (max-width: 780px) {
+  .iphonesix {
+    width: 390px;
+  }
+  .jumbo {
+    width: 300px;
+  }
+  .jumbotron {
+    height: 400px;
+    background-image: url("pictures/burrito.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-heading {
+  font-size: 400%;
+}
+.takoswithrice {
+  width: 390px;
+}
+.footer-text {
+  color: black;
+  text-align: center;
+  font-size: 90%;
+}
+.bracero {
+  width: 300px;
+}
+.iphonesix {
+  width: 360px;
+}
+.tostada {
+  width: 300px;
+}
+.takoswithrice {
+  width: 360px;
+ }
+ }
+ @media screen and (max-width: 1030px) {
+.iphonesix {
+  width: 360px;
+}
+.tostada {
+  width: 300px;
+}
+.takoswithrice {
+  width: 360px;
+ }
+ }
+ @media screen and (max-width: 370px) {
+  .shrimp {
+    width: 300px;
+  }
+  .iphonesix {
+    width: 300px;
+  }
+  .takoswithrice {
+    width: 300px;
+   }
+   }
+   @media screen and (max-width: 390px) {
+    .shrimp {
+      width: 300px;
+    }
+     }
