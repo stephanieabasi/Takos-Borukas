@@ -21,5 +21,8 @@ We hope you enjoy this website!
 
     Sincerely, Stephanie and Claudia
 
+    Contact information: stephanie.abasi@students.jmcss.org and claudia.hernandez@students.jmcss.org
+                        
+
 
  
